@@ -21,3 +21,6 @@ When clicked on Menu Icon
 > - You can now open in any editor of your choice and edit to suit your preference
 > - Incase you use vscode
 >   - cd adminTemplate && code .
+>   - npm i
+>   - npm start
+>   - Voiala :smiley: start editing the template to suit your reference
